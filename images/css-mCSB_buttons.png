@@ -1,0 +1,457 @@
+<!doctype html>
+<html lang="en">
+<head>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0, user-scalable=0">
+	<meta name="description" content=""/>
+    <meta name='robots' content='noindex, follow' />
+
+	<!-- This site is optimized with the Yoast SEO plugin v19.7.1 - https://yoast.com/wordpress/plugins/seo/ -->
+	<title>Page not found - ClimateAI</title>
+	<meta property="og:locale" content="en_US" />
+	<meta property="og:title" content="Page not found - ClimateAI" />
+	<meta property="og:site_name" content="ClimateAI" />
+	<script type="application/ld+json" class="yoast-schema-graph">{"@context":"https://schema.org","@graph":[{"@type":"WebSite","@id":"https://climate.ai/#website","url":"https://climate.ai/","name":"ClimateAI","description":"","potentialAction":[{"@type":"SearchAction","target":{"@type":"EntryPoint","urlTemplate":"https://climate.ai/?s={search_term_string}"},"query-input":"required name=search_term_string"}],"inLanguage":"en-US"}]}</script>
+	<!-- / Yoast SEO plugin. -->
+
+
+<link rel='dns-prefetch' href='//js.hs-scripts.com' />
+<link rel='dns-prefetch' href='//www.googletagmanager.com' />
+<link rel='dns-prefetch' href='//www.google.com' />
+<link rel='dns-prefetch' href='//s.w.org' />
+<link rel='dns-prefetch' href='//i0.wp.com' />
+		<!-- This site uses the Google Analytics by MonsterInsights plugin v8.9.0 - Using Analytics tracking - https://www.monsterinsights.com/ -->
+		<!-- Note: MonsterInsights is not currently configured on this site. The site owner needs to authenticate with Google Analytics in the MonsterInsights settings panel. -->
+					<!-- No UA code set -->
+				<!-- / Google Analytics by MonsterInsights -->
+		<script type="text/javascript">
+window._wpemojiSettings = {"baseUrl":"https:\/\/s.w.org\/images\/core\/emoji\/14.0.0\/72x72\/","ext":".png","svgUrl":"https:\/\/s.w.org\/images\/core\/emoji\/14.0.0\/svg\/","svgExt":".svg","source":{"concatemoji":"https:\/\/climate.ai\/wp-includes\/js\/wp-emoji-release.min.js?ver=6.0.2"}};
+/*! This file is auto-generated */
+!function(e,a,t){var n,r,o,i=a.createElement("canvas"),p=i.getContext&&i.getContext("2d");function s(e,t){var a=String.fromCharCode,e=(p.clearRect(0,0,i.width,i.height),p.fillText(a.apply(this,e),0,0),i.toDataURL());return p.clearRect(0,0,i.width,i.height),p.fillText(a.apply(this,t),0,0),e===i.toDataURL()}function c(e){var t=a.createElement("script");t.src=e,t.defer=t.type="text/javascript",a.getElementsByTagName("head")[0].appendChild(t)}for(o=Array("flag","emoji"),t.supports={everything:!0,everythingExceptFlag:!0},r=0;r<o.length;r++)t.supports[o[r]]=function(e){if(!p||!p.fillText)return!1;switch(p.textBaseline="top",p.font="600 32px Arial",e){case"flag":return s([127987,65039,8205,9895,65039],[127987,65039,8203,9895,65039])?!1:!s([55356,56826,55356,56819],[55356,56826,8203,55356,56819])&&!s([55356,57332,56128,56423,56128,56418,56128,56421,56128,56430,56128,56423,56128,56447],[55356,57332,8203,56128,56423,8203,56128,56418,8203,56128,56421,8203,56128,56430,8203,56128,56423,8203,56128,56447]);case"emoji":return!s([129777,127995,8205,129778,127999],[129777,127995,8203,129778,127999])}return!1}(o[r]),t.supports.everything=t.supports.everything&&t.supports[o[r]],"flag"!==o[r]&&(t.supports.everythingExceptFlag=t.supports.everythingExceptFlag&&t.supports[o[r]]);t.supports.everythingExceptFlag=t.supports.everythingExceptFlag&&!t.supports.flag,t.DOMReady=!1,t.readyCallback=function(){t.DOMReady=!0},t.supports.everything||(n=function(){t.readyCallback()},a.addEventListener?(a.addEventListener("DOMContentLoaded",n,!1),e.addEventListener("load",n,!1)):(e.attachEvent("onload",n),a.attachEvent("onreadystatechange",function(){"complete"===a.readyState&&t.readyCallback()})),(e=t.source||{}).concatemoji?c(e.concatemoji):e.wpemoji&&e.twemoji&&(c(e.twemoji),c(e.wpemoji)))}(window,document,window._wpemojiSettings);
+</script>
+<style type="text/css">
+img.wp-smiley,
+img.emoji {
+	display: inline !important;
+	border: none !important;
+	box-shadow: none !important;
+	height: 1em !important;
+	width: 1em !important;
+	margin: 0 0.07em !important;
+	vertical-align: -0.1em !important;
+	background: none !important;
+	padding: 0 !important;
+}
+</style>
+	<link rel='stylesheet' id='mediaelement-css'  href='https://climate.ai/wp-includes/js/mediaelement/mediaelementplayer-legacy.min.css?ver=4.2.16' type='text/css' media='all' />
+<link rel='stylesheet' id='wp-mediaelement-css'  href='https://climate.ai/wp-includes/js/mediaelement/wp-mediaelement.min.css?ver=6.0.2' type='text/css' media='all' />
+<link rel='stylesheet' id='contact-form-7-css'  href='https://climate.ai/wp-content/plugins/contact-form-7/includes/css/styles.css?ver=5.6.3' type='text/css' media='all' />
+<link rel='stylesheet' id='email-subscribers-css'  href='https://climate.ai/wp-content/plugins/email-subscribers/lite/public/css/email-subscribers-public.css' type='text/css' media='all' />
+<link rel='stylesheet' id='jetpack_css-css'  href='https://climate.ai/wp-content/plugins/jetpack/css/jetpack.css?ver=11.3.2' type='text/css' media='all' />
+<script type='text/javascript' src='https://climate.ai/wp-includes/js/jquery/jquery.min.js?ver=3.6.0' id='jquery-core-js'></script>
+<script type='text/javascript' src='https://climate.ai/wp-includes/js/jquery/jquery-migrate.min.js?ver=3.3.2' id='jquery-migrate-js'></script>
+<script type='text/javascript' id='email-subscribers-js-extra'>
+/* <![CDATA[ */
+var es_data = {"messages":{"es_empty_email_notice":"Please enter email address","es_rate_limit_notice":"You need to wait for sometime before subscribing again","es_single_optin_success_message":"Successfully Subscribed.","es_email_exists_notice":"Email Address already exists!","es_unexpected_error_notice":"Oops.. Unexpected error occurred.","es_invalid_email_notice":"Invalid email address","es_try_later_notice":"Please try after some time"},"es_ajax_url":"https:\/\/climate.ai\/wp-admin\/admin-ajax.php"};
+/* ]]> */
+</script>
+<script type='text/javascript' src='https://climate.ai/wp-content/plugins/email-subscribers/lite/public/js/email-subscribers-public.js' id='email-subscribers-js'></script>
+
+<!-- Google Analytics snippet added by Site Kit -->
+<script type='text/javascript' src='https://www.googletagmanager.com/gtag/js?id=UA-142845874-1' id='google_gtagjs-js' async></script>
+<script type='text/javascript' id='google_gtagjs-js-after'>
+window.dataLayer = window.dataLayer || [];function gtag(){dataLayer.push(arguments);}
+gtag('set', 'linker', {"domains":["climate.ai"]} );
+gtag("js", new Date());
+gtag("set", "developer_id.dZTNiMT", true);
+gtag("config", "UA-142845874-1", {"anonymize_ip":true});
+</script>
+
+<!-- End Google Analytics snippet added by Site Kit -->
+<link rel="https://api.w.org/" href="https://climate.ai/wp-json/" /><meta name="generator" content="Site Kit by Google 1.84.0" /><!-- HFCM by 99 Robots - Snippet # 3: Google Tag Manager -->
+<!-- Google Tag Manager -->
+<script>(function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':
+new Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0],
+j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
+'https://www.googletagmanager.com/gtm.js?id='+i+dl;f.parentNode.insertBefore(j,f);
+})(window,document,'script','dataLayer','GTM-NZ8BG5R');</script>
+<!-- End Google Tag Manager -->
+<!-- /end HFCM by 99 Robots -->
+<!-- HFCM by 99 Robots - Snippet # 4: Google Tag Manager Body Tag -->
+<!-- Google Tag Manager (noscript) -->
+<noscript><iframe src="https://www.googletagmanager.com/ns.html?id=GTM-NZ8BG5R"
+height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
+<!-- End Google Tag Manager (noscript) -->
+<!-- /end HFCM by 99 Robots -->
+			<!-- DO NOT COPY THIS SNIPPET! Start of Page Analytics Tracking for HubSpot WordPress plugin v9.0.123-->
+			<script type="text/javascript" class="hsq-set-content-id" data-content-id="">
+				var _hsq = _hsq || [];
+				_hsq.push(["setContentType", ""]);
+			</script>
+			<!-- DO NOT COPY THIS SNIPPET! End of Page Analytics Tracking for HubSpot WordPress plugin -->
+			<link rel="apple-touch-icon" sizes="180x180" href="/wp-content/uploads/fbrfg/apple-touch-icon.png">
+<link rel="icon" type="image/png" sizes="32x32" href="/wp-content/uploads/fbrfg/favicon-32x32.png">
+<link rel="icon" type="image/png" sizes="16x16" href="/wp-content/uploads/fbrfg/favicon-16x16.png">
+<link rel="manifest" href="/wp-content/uploads/fbrfg/site.webmanifest">
+<link rel="mask-icon" href="/wp-content/uploads/fbrfg/safari-pinned-tab.svg" color="#5bbad5">
+<link rel="shortcut icon" href="/wp-content/uploads/fbrfg/favicon.ico">
+<meta name="msapplication-TileColor" content="#da532c">
+<meta name="msapplication-config" content="/wp-content/uploads/fbrfg/browserconfig.xml">
+<meta name="theme-color" content="#ffffff">
+		<script>
+		(function(h,o,t,j,a,r){
+			h.hj=h.hj||function(){(h.hj.q=h.hj.q||[]).push(arguments)};
+			h._hjSettings={hjid:3024632,hjsv:5};
+			a=o.getElementsByTagName('head')[0];
+			r=o.createElement('script');r.async=1;
+			r.src=t+h._hjSettings.hjid+j+h._hjSettings.hjsv;
+			a.appendChild(r);
+		})(window,document,'//static.hotjar.com/c/hotjar-','.js?sv=');
+		</script>
+		<style>img#wpstats{display:none}</style>
+	        <link rel="stylesheet" type="text/css" href="https://climate.ai/wp-content/themes/climateai/css/style.css?c=11">
+    <link rel="stylesheet" type="text/css" href="https://climate.ai/wp-content/themes/climateai/style.css">
+    </head>
+<body>
+		<header class="header header_fixed">
+		<a class="header_logo" href="https://climate.ai/">
+			<svg id="Layer_1" data-name="Layer 1" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1048.36 264">
+    <path class="logo_color_orange" d="M264,132C264,59.22,204.79,0,132,0S0,59.22,0,132a131.44,131.44,0,0,0,8.53,46.7h0q1.78,4.71,3.92,9.28h0a132,132,0,0,0,239.1,0h0q2.06-4.37,3.78-8.92h0A131.28,131.28,0,0,0,264,132ZM132,250A118.11,118.11,0,0,1,26,183.77c34.74-14.4,47.7-50.18,54.42-68.76.48-1.33.93-2.57,1.36-3.71,4.16-11.23,7.92-21,11.8-27.54s7.46-9.2,11.83-9.2,8,2.84,11.83,9.2,7.64,16.31,11.8,27.54q.73,2,1.56,4.26l.16.44c.48,1.33,1,2.75,1.54,4.23-1.54,3.67-3,7.49-4.55,11.4-6.27,16-12.14,26.25-19.64,34.14-8.87,9.35-20.51,15.8-36.63,20.32A2,2,0,0,0,72,190c20.45,0,37.29-6,50.06-17.78,9.87-9.12,15.83-20.32,19.66-29.23a134,134,0,0,0,9,15.93c13.7,20.63,31,31.08,51.31,31.08a2,2,0,0,0,.56-3.93c-14.8-4.36-26.94-15.2-37.1-33.14-5.81-10.24-10.38-21.69-14.39-32.52a70.89,70.89,0,0,1,4.1-7.69c3.72-5.91,7.3-8.56,11.58-8.56s7.87,2.65,11.59,8.56,7.49,15.19,11.57,25.66c3.49,8.93,8.84,20.44,19.36,30.21,7.6,7.06,17.09,12.41,28.35,16A118.09,118.09,0,0,1,132,250Zm109.88-75A53.19,53.19,0,0,1,224,163c-8.83-9-14.2-20.93-18.32-31.49-4.32-11.05-8.78-22.48-14.6-30.87-6.73-9.68-14.7-14.39-24.38-14.39-9.21,0-16.87,4.27-23.4,13-4-10.58-7.92-20.45-13.07-28.25-6.85-10.37-15-15.41-24.85-15.41s-18,5-24.84,15.41c-5.93,9-10.27,20.65-14.86,33l0,.09c-.59,1.59-1.19,3.23-1.8,4.9-4.76,13-10.16,27.71-18.4,40.62-6.9,10.8-14.81,18.68-23.93,23.77A118,118,0,1,1,250,132,117.32,117.32,0,0,1,241.88,175Z"/>
+    <path class="logo_color_dark" d="M299.22,135.62A56.81,56.81,0,0,1,306.37,107,51.51,51.51,0,0,1,326.1,87.3a56,56,0,0,1,28.12-7.14q18.16,0,31.84,9.32a48.67,48.67,0,0,1,19.11,25.79h-25a25.85,25.85,0,0,0-10.56-11.66,30.48,30.48,0,0,0-15.54-3.88,32,32,0,0,0-16.93,4.51,30.37,30.37,0,0,0-11.5,12.43,41.9,41.9,0,0,0-4,19,42.53,42.53,0,0,0,4,18.95,31.51,31.51,0,0,0,11.5,12.59,33,33,0,0,0,16.93,4.35,30.39,30.39,0,0,0,15.54-3.89,26.74,26.74,0,0,0,10.56-11.8h25a48.65,48.65,0,0,1-19.11,25.94q-13.51,9.17-31.84,9.17a56.91,56.91,0,0,1-28.12-7,53,53,0,0,1-19.73-19.74A56.75,56.75,0,0,1,299.22,135.62Z"/>
+    <path class="logo_color_dark" d="M441.2,75V190H419.45V75Z"/>
+    <path class="logo_color_dark" d="M473.62,93.67A13.7,13.7,0,0,1,464,90.1a12.45,12.45,0,0,1-3.73-9.17,11.94,11.94,0,0,1,3.73-9,13.39,13.39,0,0,1,9.63-3.73,12.88,12.88,0,0,1,9.48,3.73,11.75,11.75,0,0,1,3.88,9,12.25,12.25,0,0,1-3.88,9.17A13.17,13.17,0,0,1,473.62,93.67Zm10.72,10.26V190H462.59V103.93Z"/>
+    <path class="logo_color_dark" d="M610.61,102.68q15.84,0,25.47,9.79,9.79,9.63,9.79,27V190H624.12V142.45q0-10.09-5.12-15.38t-14-5.43q-8.85,0-14.13,5.43-5.13,5.3-5.13,15.38V190H564V142.45q0-10.09-5.13-15.38t-14-5.43q-9,0-14.29,5.43t-5.13,15.38V190H503.72V103.93h21.75v10.41a29.07,29.07,0,0,1,10.72-8.55,34.2,34.2,0,0,1,14.6-3.11,36.86,36.86,0,0,1,18,4.35,29.49,29.49,0,0,1,12.27,12.12,31.18,31.18,0,0,1,12.12-12A35.06,35.06,0,0,1,610.61,102.68Z"/>
+    <path class="logo_color_dark" d="M657.81,146.65a50.41,50.41,0,0,1,5.13-23.15A38.88,38.88,0,0,1,677.08,108a38,38,0,0,1,20-5.43,34.56,34.56,0,0,1,16.77,3.88,34,34,0,0,1,11.66,9.79V103.93h21.9V190h-21.9V177.41a32.82,32.82,0,0,1-11.66,10.1A35.48,35.48,0,0,1,697,191.39a36.91,36.91,0,0,1-19.88-5.59,40,40,0,0,1-14.14-15.69A51.77,51.77,0,0,1,657.81,146.65Zm67.74.31a27.49,27.49,0,0,0-3.11-13.52,21.28,21.28,0,0,0-8.39-8.7,22.49,22.49,0,0,0-22.53-.15,22.76,22.76,0,0,0-8.39,8.7,27.12,27.12,0,0,0-3.1,13.36,28.92,28.92,0,0,0,3.1,13.67,24,24,0,0,0,8.39,8.86,21.72,21.72,0,0,0,11.19,3.1,22.84,22.84,0,0,0,11.34-2.95,22.58,22.58,0,0,0,8.39-8.7A28.36,28.36,0,0,0,725.55,147Z"/>
+    <path class="logo_color_dark" d="M790.91,121.79v41.64q0,4.35,2,6.37,2.18,1.86,7.14,1.86h10.11V190H796.51Q769,190,769,163.27V121.79H758.75V103.93H769V82.64h21.91v21.29h19.27v17.86Z"/>
+    <path class="logo_color_dark" d="M901.72,145.1a50.82,50.82,0,0,1-.62,8.39H838.18q.78,9.31,6.53,14.6a20.09,20.09,0,0,0,14.13,5.28q12.12,0,17.25-10.41h23.46a39.66,39.66,0,0,1-14.3,20.51q-10.56,7.92-25.94,7.92A45.92,45.92,0,0,1,836.94,186a40,40,0,0,1-15.38-15.7,48.33,48.33,0,0,1-5.44-23.3q0-13.36,5.44-23.46A37.94,37.94,0,0,1,836.79,108a45.63,45.63,0,0,1,22.52-5.43,44.84,44.84,0,0,1,21.91,5.28,36.34,36.34,0,0,1,15.06,15.07A44.37,44.37,0,0,1,901.72,145.1Zm-22.53-6.22a17,17,0,0,0-6.06-13.36,21.24,21.24,0,0,0-14.44-5.13,19.8,19.8,0,0,0-13.67,5q-5.44,4.81-6.68,13.51Z"/>
+    <path class="logo_color_orange" d="M1035,93.67a13.7,13.7,0,0,1-9.63-3.57,12.45,12.45,0,0,1-3.73-9.17,11.94,11.94,0,0,1,3.73-9,13.39,13.39,0,0,1,9.63-3.73,12.88,12.88,0,0,1,9.48,3.73,11.72,11.72,0,0,1,3.88,9,12.21,12.21,0,0,1-3.88,9.17A13.17,13.17,0,0,1,1035,93.67Zm10.72,10.26V190H1024V103.93Z"/>
+    <path class="logo_color_orange" d="M983.08,169.3H940L932.81,190H910L949,81.23h25.29L1013.18,190h-23Zm-5.89-17.42-15.68-45.44-15.67,45.44Z"/>
+</svg>
+		</a>
+		<div class="header_navbar">
+			<div class="header_navbar_inner">
+				<div class="header_left">
+					<nav class="header_nav">
+						<ul>
+							<li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-home menu-item-1079"><a class="menu-item menu-item-type-custom menu-item-object-custom menu-item-home menu-item-1079" href="https://climate.ai">Home</a></li>
+<li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children menu-item-1874"><a class="menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children menu-item-1874" href="#">Solutions<svg class="svg_arrow_down"><use xlink:href="https://climate.ai/wp-content/themes/climateai/images/sprite/sprite.svg#arrow_down"></use></svg></a>
+<ul class="sub-menu">
+	<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-1875"><a class="menu-item menu-item-type-post_type menu-item-object-page menu-item-1875" href="https://climate.ai/food-and-agriculture-climate-insights/">Food + Agriculture Climate Insights</a></li>
+	<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-1878"><a class="menu-item menu-item-type-post_type menu-item-object-page menu-item-1878" href="https://climate.ai/finance-historical-climate-is-not-indicative-of-future-climate/">Finance</a></li>
+	<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-1880"><a class="menu-item menu-item-type-post_type menu-item-object-page menu-item-1880" href="https://climate.ai/agri-commodity-solutions/">Agri-Commodity Solutions</a></li>
+	<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-1877"><a class="menu-item menu-item-type-post_type menu-item-object-page menu-item-1877" href="https://climate.ai/water-risk-management/">Water Risk Management</a></li>
+	<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-1876"><a class="menu-item menu-item-type-post_type menu-item-object-page menu-item-1876" href="https://climate.ai/weather-smart-demand-planning/">Weather-smart Demand Planning</a></li>
+	<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-1879"><a class="menu-item menu-item-type-post_type menu-item-object-page menu-item-1879" href="https://climate.ai/climate-risk-disclosure/">Climate Risk Disclosure</a></li>
+</ul>
+</li>
+<li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-1900"><a class="menu-item menu-item-type-custom menu-item-object-custom menu-item-1900" href="https://climate.ai/about/">About</a></li>
+<li class="work menu-item menu-item-type-post_type menu-item-object-page menu-item-82"><a class="work menu-item menu-item-type-post_type menu-item-object-page menu-item-82" href="https://climate.ai/work/">Work with us</a></li>
+<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-1886"><a class="menu-item menu-item-type-post_type menu-item-object-page menu-item-1886" href="https://climate.ai/press/">Press</a></li>
+<li class="menu-item menu-item-type-post_type menu-item-object-page current_page_parent menu-item-1884"><a class="menu-item menu-item-type-post_type menu-item-object-page current_page_parent menu-item-1884" href="https://climate.ai/blog/">Blog</a></li>
+<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-1240"><a class="menu-item menu-item-type-post_type menu-item-object-page menu-item-1240" href="https://climate.ai/podcast/">Podcast</a></li>
+						</ul>
+					</nav>
+				</div>
+				<div class="header_right">
+					<div class="header_buttons">
+												<a class="header_contact_btn" href="https://climate.ai/request-a-demo/">Request a Demo</a>
+					    					</div>
+				</div>
+			</div>
+		</div>
+		<button class="header_navbar_toggle">
+			<span>Toggle menu</span>
+		</button>
+	</header>
+    <div class="main_content page_404">
+        <div class="container">
+            <article class="typical_article">
+                <div class="typical_text">
+                    <h1>Error 404</h1>
+                    <h2>This page does not exist.</h2>
+                </div>
+            </article>
+        </div>
+    </div>
+					
+	<footer class="footer">
+						<div class="footer_info">
+			<div class="container">
+				<div class="footer_info_inner">
+					<div class="footer_info_left">
+						<p>Want access to a demo?</p>
+					</div>
+										<div class="footer_info_right">
+						<a class="btn popup_show popup_form" data-title="Footer" href="#popup_contact" onclick="updateURL('footer')">Request a Demo</a>
+					</div>
+									</div>
+			</div>
+		</div>
+                		<div class="footer_main">
+			<div class="container">
+				<div class="footer_main_inner">
+					<div class="footer_main_left">
+						<a class="footer_main_logo" href="https://climate.ai/">
+							<svg id="Layer_1" data-name="Layer 1" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 500 500">
+								<defs><style>.cls-1{fill:#fff;}</style></defs>
+								<path class="cls-1" d="M443.83,250c0-106.88-86.95-193.84-193.83-193.84S56.16,143.12,56.16,250a193,193,0,0,0,12.53,68.57h0q2.63,6.92,5.76,13.63l0,0c31,65.91,98,111.65,175.54,111.65s144.59-45.77,175.56-111.71a.07.07,0,0,0,.06,0c2-4.27,3.86-8.65,5.55-13.1h0A193,193,0,0,0,443.83,250ZM250,423.27A173.46,173.46,0,0,1,94.31,326c51-21.15,70.05-73.69,79.91-101,.71-2,1.37-3.78,2-5.45,6.11-16.49,11.63-30.9,17.33-40.44,5.59-9.34,10.95-13.51,17.37-13.51s11.78,4.17,17.37,13.51c5.7,9.54,11.22,24,17.33,40.44.72,1.92,1.48,4,2.29,6.25l.24.65c.7,1.95,1.45,4,2.26,6.21-2.26,5.39-4.45,11-6.68,16.74C234.52,273,225.9,288,214.89,299.58c-13,13.73-30.12,23.21-53.79,29.84a2.92,2.92,0,0,0,.79,5.74c30,0,54.76-8.78,73.51-26.1,14.49-13.4,23.24-29.84,28.87-42.93a196.23,196.23,0,0,0,13.17,23.4c20.12,30.29,45.46,45.63,75.35,45.63a2.94,2.94,0,0,0,2.9-2.51,3,3,0,0,0-2.08-3.26c-21.74-6.4-39.56-22.32-54.48-48.66-8.53-15-15.24-31.85-21.13-47.75a103.9,103.9,0,0,1,6-11.3c5.46-8.67,10.72-12.57,17-12.57s11.56,3.9,17,12.57c5.58,8.86,11,22.31,17,37.68,5.13,13.12,13,30,28.43,44.37,11.16,10.36,25.1,18.22,41.63,23.46A173.4,173.4,0,0,1,250,423.27ZM411.35,313.15a78.21,78.21,0,0,1-26.22-17.57c-13-13.22-20.85-30.74-26.9-46.25-6.34-16.22-12.89-33-21.44-45.33-9.88-14.21-21.58-21.13-35.8-21.13-13.52,0-24.77,6.27-34.36,19.15-5.81-15.53-11.63-30-19.19-41.48-10.06-15.23-22-22.63-36.49-22.63s-26.42,7.4-36.48,22.63c-8.7,13.16-15.08,30.32-21.82,48.52l-.06.13c-.86,2.33-1.74,4.74-2.64,7.19-7,19.06-14.92,40.69-27,59.65-10.13,15.86-21.75,27.43-35.14,34.91A172.19,172.19,0,0,1,76.72,250c0-95.54,77.72-173.28,173.28-173.28S423.27,154.46,423.27,250A172.33,172.33,0,0,1,411.35,313.15Z"/>
+							</svg>
+						</a>
+					</div>
+					<div class="footer_main_right">
+						<div class="footer_main_nav">
+							<a class="menu-item menu-item-type-custom menu-item-object-custom menu-item-1903" href="https://climate.ai/about/https://climate.ai/">Home</a><a class="menu-item menu-item-type-custom menu-item-object-custom menu-item-1901" href="https://climate.ai/about/">About</a><a class="work menu-item menu-item-type-post_type menu-item-object-page menu-item-83" href="https://climate.ai/work/">Work with us</a><a class="menu-item menu-item-type-post_type menu-item-object-page menu-item-1889" href="https://climate.ai/press/">Press</a><a class="menu-item menu-item-type-post_type menu-item-object-page current_page_parent menu-item-1888" href="https://climate.ai/blog/">Blog</a><a class="podcast menu-item menu-item-type-post_type menu-item-object-page menu-item-204" href="https://climate.ai/podcast/">Podcast</a>						</div>
+						<div class="footer_main_bottom">
+							<p class="footer_main_cop">© 2022 ClimateAI. All rights reserved.</p>
+							<div class="footer_main_links">
+								<a class="menu-item menu-item-type-post_type menu-item-object-page menu-item-48" href="https://climate.ai/privacy-policy/">Privacy Policy</a><a class="menu-item menu-item-type-post_type menu-item-object-page menu-item-49" href="https://climate.ai/?page_id=47">Terms of Use</a>							</div>
+						</div>
+					</div>
+				</div>
+			</div>
+		</div>
+	</footer>
+
+    	<div class="popup_contact_form popup_fade" id="popup_risk_consultation">
+		<div class="popup_inner">
+			<div class="popup_center popup_width">
+				<div class="popup_box">
+					<a class="popup_close popup_close_btn" href="#" onclick="resetURL()">
+						<span></span>
+					</a>
+										<h2 class="popup_box_title">Get a FREE Climate Risk Consultation!</h2>
+										<div class="popup_box_text">
+						<p>Get a free Climate Risk Consultation.</p>
+					</div>
+										<div class="popup_flex">
+						<div class="popup_video">
+							<iframe class="responsive-iframe"
+								src="https://www.youtube.com/embed/ABid9_It13k">
+							</iframe>
+						</div>
+						<div class="bottom_contact_form form_contact">
+							<div role="form" class="wpcf7" id="wpcf7-f924-o1" lang="en-US" dir="ltr">
+<div class="screen-reader-response"><p role="status" aria-live="polite" aria-atomic="true"></p> <ul></ul></div>
+<form action="/wp-content/themes/climateai/css/mCSB_buttons.png#wpcf7-f924-o1" method="post" class="wpcf7-form init" novalidate="novalidate" data-status="init">
+<div style="display: none;">
+<input type="hidden" name="_wpcf7" value="924" />
+<input type="hidden" name="_wpcf7_version" value="5.6.3" />
+<input type="hidden" name="_wpcf7_locale" value="en_US" />
+<input type="hidden" name="_wpcf7_unit_tag" value="wpcf7-f924-o1" />
+<input type="hidden" name="_wpcf7_container_post" value="0" />
+<input type="hidden" name="_wpcf7_posted_data_hash" value="" />
+<input type="hidden" name="_wpcf7_recaptcha_response" value="" />
+</div>
+<div class="form_fields">
+    <div class="form_row two_fields">
+	<div class="form_cell"><span class="wpcf7-form-control-wrap" data-name="text-591"><input type="text" name="text-591" value="" size="40" class="wpcf7-form-control wpcf7-text wpcf7-validates-as-required form_name" aria-required="true" aria-invalid="false" placeholder="Your First Name" /></span></div>
+	<div class="form_cell"><span class="wpcf7-form-control-wrap" data-name="text-592"><input type="text" name="text-592" value="" size="40" class="wpcf7-form-control wpcf7-text wpcf7-validates-as-required form_name" aria-required="true" aria-invalid="false" placeholder="Your Last Name" /></span></div>
+    </div>
+    <div class="form_row two_fields">
+        <div class="form_cell"><span class="wpcf7-form-control-wrap" data-name="email-673"><input type="email" name="email-673" value="" size="40" class="wpcf7-form-control wpcf7-text wpcf7-email wpcf7-validates-as-required wpcf7-validates-as-email form_email" aria-required="true" aria-invalid="false" placeholder="Your Email" /></span></div>
+	<div class="form_cell"><span class="wpcf7-form-control-wrap" data-name="text-593"><input type="text" name="text-593" value="" size="40" class="wpcf7-form-control wpcf7-text wpcf7-validates-as-required form_name" aria-required="true" aria-invalid="false" placeholder="Your Company" /></span></div>
+    </div>
+    <div class="form_row">
+        <div class="form_cell"><span class="wpcf7-form-control-wrap" data-name="textarea-719"><textarea name="textarea-719" cols="40" rows="10" class="wpcf7-form-control wpcf7-textarea wpcf7-validates-as-required form_message" aria-required="true" aria-invalid="false" placeholder="Your message here"></textarea></span></div>
+    </div>
+    <div class="form_row checkbox-subscribe">
+        <div class="form_cell"><span class="wpcf7-form-control-wrap" data-name="checkbox-61"><span class="wpcf7-form-control wpcf7-checkbox"><span class="wpcf7-list-item first last"><input type="checkbox" name="checkbox-61[]" value="Subscribe to our Newsletter" checked="checked" /><span class="wpcf7-list-item-label">Subscribe to our Newsletter</span></span></span></span></div>
+    </div>
+</div>
+<input type="hidden" name="button-1" value="" class="wpcf7-form-control wpcf7-hidden button_title" />
+<input class="form_send btn btn_orange" type="submit" value="Send"><div class="wpcf7-response-output" aria-hidden="true"></div></form></div>						</div>
+					</div>
+				</div>
+			</div>
+		</div>
+	</div>
+	    
+    	<div class="popup_contact_form popup_fade" id="popup_contact">
+		<div class="popup_inner">
+			<div class="popup_center">
+				<div class="popup_box">
+					<a class="popup_close popup_close_btn" href="#" onclick="resetURL()">
+						<span></span>
+					</a>
+										<h2 class="popup_box_title">Request a Demo</h2>
+										<div class="bottom_contact_form form_contact">
+						<div role="form" class="wpcf7" id="wpcf7-f15-o2" lang="en-US" dir="ltr">
+<div class="screen-reader-response"><p role="status" aria-live="polite" aria-atomic="true"></p> <ul></ul></div>
+<form action="/wp-content/themes/climateai/css/mCSB_buttons.png#wpcf7-f15-o2" method="post" class="wpcf7-form init" novalidate="novalidate" data-status="init">
+<div style="display: none;">
+<input type="hidden" name="_wpcf7" value="15" />
+<input type="hidden" name="_wpcf7_version" value="5.6.3" />
+<input type="hidden" name="_wpcf7_locale" value="en_US" />
+<input type="hidden" name="_wpcf7_unit_tag" value="wpcf7-f15-o2" />
+<input type="hidden" name="_wpcf7_container_post" value="0" />
+<input type="hidden" name="_wpcf7_posted_data_hash" value="" />
+<input type="hidden" name="_wpcf7_recaptcha_response" value="" />
+</div>
+<div class="form_fields">
+    <div class="form_row two_fields">
+	<div class="form_cell"><span class="wpcf7-form-control-wrap" data-name="text-591"><input type="text" name="text-591" value="" size="40" class="wpcf7-form-control wpcf7-text wpcf7-validates-as-required form_name" aria-required="true" aria-invalid="false" placeholder="Your First Name" /></span></div>
+	<div class="form_cell"><span class="wpcf7-form-control-wrap" data-name="text-592"><input type="text" name="text-592" value="" size="40" class="wpcf7-form-control wpcf7-text wpcf7-validates-as-required form_name" aria-required="true" aria-invalid="false" placeholder="Your Last Name" /></span></div>
+    </div>
+    <div class="form_row two_fields">
+        <div class="form_cell"><span class="wpcf7-form-control-wrap" data-name="email-673"><input type="email" name="email-673" value="" size="40" class="wpcf7-form-control wpcf7-text wpcf7-email wpcf7-validates-as-required wpcf7-validates-as-email form_email" aria-required="true" aria-invalid="false" placeholder="Your Email" /></span></div>
+	<div class="form_cell"><span class="wpcf7-form-control-wrap" data-name="text-593"><input type="text" name="text-593" value="" size="40" class="wpcf7-form-control wpcf7-text wpcf7-validates-as-required form_name" aria-required="true" aria-invalid="false" placeholder="Your Company" /></span></div>
+    </div>
+    <div class="form_row">
+        <div class="form_cell"><span class="wpcf7-form-control-wrap" data-name="textarea-719"><textarea name="textarea-719" cols="40" rows="10" class="wpcf7-form-control wpcf7-textarea wpcf7-validates-as-required form_message" aria-required="true" aria-invalid="false" placeholder="Your message here"></textarea></span></div>
+    </div>
+    <div class="form_row checkbox-subscribe">
+        <div class="form_cell"><span class="wpcf7-form-control-wrap" data-name="checkbox-61"><span class="wpcf7-form-control wpcf7-checkbox"><span class="wpcf7-list-item first last"><input type="checkbox" name="checkbox-61[]" value="Subscribe to our Newsletter" checked="checked" /><span class="wpcf7-list-item-label">Subscribe to our Newsletter</span></span></span></span></div>
+    </div>
+</div>
+<input type="hidden" name="button-1" value="" class="wpcf7-form-control wpcf7-hidden button_title" />
+<input class="form_send btn btn_orange" type="submit" value="Send"><div class="wpcf7-response-output" aria-hidden="true"></div></form></div>					</div>
+				</div>
+			</div>
+		</div>
+	</div>
+	<div class="popup_success popup_fade" id="popup_success">
+		<a class="popup_close popup_close_btn" href="#" onclick="resetURL()">
+			<span></span>
+		</a>
+		<div class="popup_inner">
+			<div class="popup_center">
+				<div class="popup_box">
+					<a class="popup_close popup_close_btn" href="#" onclick="resetURL()">
+						<span></span>
+					</a>
+					<h2 class="popup_box_title">Thank You!</h2>
+					<div class="popup_box_text">
+						<p>Thank you! You will receive an email from a member of our team shortly. Climate resilience is just around the corner!</p>
+					</div>
+					<a class="popup_close_btn btn btn_orange" href="#" onclick="resetURL()">Close</a>
+				</div>
+			</div>
+		</div>
+	</div>
+	
+
+	<script type="text/javascript" src="https://climate.ai/wp-content/themes/climateai/js/jquery-3.3.1.min.js"></script>
+	<script type="text/javascript" src="https://climate.ai/wp-content/themes/climateai/js/jquery.scrollLock.js"></script>
+	<script type="text/javascript" src="https://climate.ai/wp-content/themes/climateai/js/jquery.validate.min.js"></script>
+	<script type="text/javascript" src="https://climate.ai/wp-content/themes/climateai/js/jquery.touchSwipe.min.js"></script>
+	<script type="text/javascript" src="https://climate.ai/wp-content/themes/climateai/js/wow.min.js"></script>
+		<script type="text/javascript" src="https://climate.ai/wp-content/themes/climateai/js/slick.min.js"></script>
+	<!-- 	<script type="text/javascript" src="https://climate.ai/wp-content/themes/climateai/js/main.js?c=6"></script> -->
+	<script type="text/javascript" src="https://climate.ai/wp-content/themes/climateai/js/main.js"></script>
+	<script type="text/javascript" src="https://climate.ai/wp-content/themes/climateai/js/template.js"></script>
+	<script type="text/javascript">
+				    var wpcf7Elm = document.querySelector( '#popup_contact .wpcf7' );
+		    wpcf7Elm.addEventListener( 'wpcf7mailsent', function( event ) {
+		    	$('#popup_contact').closest('.popup_fade').fadeOut();
+		        $('#popup_success').fadeIn();
+				const initialPath = location.pathname;
+				const extras = location.hash.replace("contact-us", "thank-you");
+				window.history.pushState({},"", initialPath+extras);
+		    }, false );
+		   wpcf7Elm.addEventListener( 'wpcf7mailfailed', function( event ) {
+ 		      alert('Error. Try later.');    
+ 		   }, false );
+ 			</script>
+	<script type="text/javascript">
+		$(function() {
+			if (location.hash.includes("contact-us")){
+		    	$('#popup_contact').closest('.popup_fade').fadeIn();
+			}
+		});
+		$("#menu-item-875").css("position","relative")
+		$("#menu-item-875").append("<span class='new-menu-item-REMOVE'></span>")
+		function updateURL(addition) {
+			let extra = "";
+			if (addition !== null && addition !== undefined && addition !== "") {
+				addition = addition.toLowerCase().replaceAll(",", "").replaceAll(" ", "-").replaceAll("<br>", "");
+				extra = "-"+addition;
+			}
+			const initialPath = location.pathname;
+			window.history.pushState({},"", initialPath+"#contact-us"+extra);
+		}
+		function resetURL() {
+			const initialPath = location.pathname;
+			window.history.pushState({},"", initialPath);
+		}
+		function navigateTo(path) {
+			window.location.href = path;
+			return false;
+		}
+	</script>
+	<!-- HFCM by 99 Robots - Snippet # 1: Twitter -->
+<!-- Twitter universal website tag code -->
+<script>
+!function(e,t,n,s,u,a){e.twq||(s=e.twq=function(){s.exe?s.exe.apply(s,arguments):s.queue.push(arguments);
+},s.version='1.1',s.queue=[],u=t.createElement(n),u.async=!0,u.src='//static.ads-twitter.com/uwt.js',
+a=t.getElementsByTagName(n)[0],a.parentNode.insertBefore(u,a))}(window,document,'script');
+// Insert Twitter Pixel ID and Standard Event data below
+twq('init','o61p6');
+twq('track','PageView');
+</script>
+<!-- End Twitter universal website tag code -->
+
+<!-- /end HFCM by 99 Robots -->
+<!-- HFCM by 99 Robots - Snippet # 2: LinkedIn -->
+<script type="text/javascript">
+_linkedin_partner_id = "3213468";
+window._linkedin_data_partner_ids = window._linkedin_data_partner_ids || [];
+window._linkedin_data_partner_ids.push(_linkedin_partner_id);
+</script><script type="text/javascript">
+(function(){var s = document.getElementsByTagName("script")[0];
+var b = document.createElement("script");
+b.type = "text/javascript";b.async = true;
+b.src = "https://snap.licdn.com/li.lms-analytics/insight.min.js";
+s.parentNode.insertBefore(b, s);})();
+</script>
+<noscript>
+<img height="1" width="1" style="display:none;" alt="" src="https://px.ads.linkedin.com/collect/?pid=3213468&fmt=gif" />
+</noscript>
+<!-- /end HFCM by 99 Robots -->
+<!-- HFCM by 99 Robots - Snippet # 6: Zoom -->
+<script>
+	(function () {
+		var zi = document.createElement('script');
+		zi.type = 'text/javascript';
+		zi.async = true;
+		zi.referrerPolicy = 'unsafe-url';
+		zi.src = 'https://ws.zoominfo.com/pixel/62b359f3ed1153008ee0becd';
+		var s = document.getElementsByTagName('script')[0];
+		s.parentNode.insertBefore(zi, s);
+	})();
+</script>
+<noscript>
+	<img src="https://ws.zoominfo.com/pixel/62b359f3ed1153008ee0becd" width="1" height="1" style="display: none;" alt="websights"/>
+</noscript>
+<!-- /end HFCM by 99 Robots -->
+<script type='text/javascript' src='https://climate.ai/wp-content/plugins/jetpack/_inc/build/photon/photon.min.js?ver=20191001' id='jetpack-photon-js'></script>
+<script type='text/javascript' src='https://climate.ai/wp-content/plugins/contact-form-7/includes/swv/js/index.js?ver=5.6.3' id='swv-js'></script>
+<script type='text/javascript' id='contact-form-7-js-extra'>
+/* <![CDATA[ */
+var wpcf7 = {"api":{"root":"https:\/\/climate.ai\/wp-json\/","namespace":"contact-form-7\/v1"}};
+/* ]]> */
+</script>
+<script type='text/javascript' src='https://climate.ai/wp-content/plugins/contact-form-7/includes/js/index.js?ver=5.6.3' id='contact-form-7-js'></script>
+<script type='text/javascript' id='leadin-script-loader-js-js-extra'>
+/* <![CDATA[ */
+var leadin_wordpress = {"userRole":"visitor","pageType":"other","leadinPluginVersion":"9.0.123"};
+/* ]]> */
+</script>
+<script type='text/javascript' src='https://js.hs-scripts.com/8398888.js?integration=WordPress&#038;ver=9.0.123' async defer id='hs-script-loader'></script>
+<script type='text/javascript' src='https://www.google.com/recaptcha/api.js?render=6LeerZYbAAAAADI6nCjFKVamq7ZG_vwOvnHA2bem&#038;ver=3.0' id='google-recaptcha-js'></script>
+<script type='text/javascript' src='https://climate.ai/wp-includes/js/dist/vendor/regenerator-runtime.min.js?ver=0.13.9' id='regenerator-runtime-js'></script>
+<script type='text/javascript' src='https://climate.ai/wp-includes/js/dist/vendor/wp-polyfill.min.js?ver=3.15.0' id='wp-polyfill-js'></script>
+<script type='text/javascript' id='wpcf7-recaptcha-js-extra'>
+/* <![CDATA[ */
+var wpcf7_recaptcha = {"sitekey":"6LeerZYbAAAAADI6nCjFKVamq7ZG_vwOvnHA2bem","actions":{"homepage":"homepage","contactform":"contactform"}};
+/* ]]> */
+</script>
+<script type='text/javascript' src='https://climate.ai/wp-content/plugins/contact-form-7/modules/recaptcha/index.js?ver=5.6.3' id='wpcf7-recaptcha-js'></script>
+<script src='https://stats.wp.com/e-202240.js' defer></script>
+<script>
+	_stq = window._stq || [];
+	_stq.push([ 'view', {v:'ext',j:'1:11.3.2',blog:'193497304',post:'0',tz:'3',srv:'climate.ai'} ]);
+	_stq.push([ 'clickTrackerInit', '193497304', '0' ]);
+</script>
+
+</body>
+</html>

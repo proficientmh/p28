@@ -1,0 +1,118 @@
+.aligncenter,
+div.aligncenter {
+	display: block;
+	margin-left: auto;
+	margin-right: auto;
+}
+
+.alignleft {
+	float: left;
+	margin-right: 20px;
+	margin-bottom: 15px;
+}
+
+.alignright {
+	float: right;
+	margin-left: 20px;
+	margin-bottom: 15px;
+
+}
+
+.wp-caption {
+	border: 1px solid #ddd;
+	text-align: center;
+	background-color: #f3f3f3;
+	padding-top: 4px;
+	margin: 10px;
+	/* optional rounded corners for browsers that support it */
+	-moz-border-radius: 3px;
+	-khtml-border-radius: 3px;
+	-webkit-border-radius: 3px;
+	border-radius: 3px;
+}
+
+.wp-caption img {
+	margin: 0;
+	padding: 0;
+	border: 0 none;
+}
+
+.wp-caption p.wp-caption-text {
+	font-size: 11px;
+	line-height: 17px;
+	padding: 0 4px 5px;
+	margin: 0;
+}
+
+.wpcf7-not-valid-tip {  
+	display: block;
+    color: #ff2929 !important;
+    font: 300 12px/14px "GT Eesti Pro Display",sans-serif !important;
+    margin-top: 5px;
+    margin-bottom: -3px;
+    text-align: left;
+}
+
+.wpcf7-response-output {  display: none !important; }
+.wpcf7-not-valid { border: 1px solid #ff8484 !important; }
+
+.sub-menu { display: none !important; }
+.page_404 { text-align: center; }
+
+.header_nav > ul > .current-menu-item > a, .header_nav > ul > .current-post-ancestor > a,
+.header_nav > ul > .current-page-ancestor > a, .header_nav > ul > .current-menu-parent > a
+{ color: #fa5925 !important; }
+
+.header_nav ul ul > .current-menu-item > a, .header_nav ul ul > .current-post-ancestor > a,
+.header_nav ul ul > .current-page-ancestor > a, .header_nav ul ul > .current-menu-parent > a
+{ color: #070707 !important; }
+
+.footer_main_nav a.current-menu-item, .footer_main_nav a.current-post-ancestor,
+.footer_main_nav a.current-page-ancestor, .footer_main_na a.current-menu-parent
+{ opacity: .7 !important; }
+
+.footer_main_links a.current-menu-item, .footer_main_links a.current-post-ancestor,
+.footer_main_links a.current-page-ancestor, .footer_main_links a.current-menu-parent
+{ color: rgba(255,255,255,.7) !important; }
+
+.learn_more {
+	font-weight: bold;
+}
+
+.learn_more:hover {
+	text-decoration: underline;
+}
+
+.popup_flex {
+	display: flex;
+	flex-direction: row;
+	align-items: center;
+}
+
+.flex-1 {
+	flex-grow: 1;
+	width: 50%;
+}
+
+.popup_center.popup_width {
+	max-width: 1000px;
+}
+
+.popup_video {
+	position: relative;
+	overflow: hidden;
+	width: 100%;
+	padding-top: 56.25%;
+}
+
+.responsive-iframe {
+  position: absolute;
+  top: 0;
+  left: 0;
+  bottom: 0;
+  right: 0;
+  width: 100%;
+  height: 100%;
+}
+
+.top_section .es_subscription_message.success { color: #fff !important; }
